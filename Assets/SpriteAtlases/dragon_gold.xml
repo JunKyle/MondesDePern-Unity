@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:ac2aa90d13aa327ecacef2e05401686c$ -->
+<Imageset Name="dragon_gold" Imagefile="dragon_gold.png" NativeHorzRes="2048" NativeVertRes="1024" AutoScaled="false">
+    <Image Name="goldDragon_firing_1" XPos="0" YPos="0" Width="377" Height="434"/>
+    <Image Name="goldDragon_firing_2" XPos="377" YPos="0" Width="377" Height="434"/>
+    <Image Name="goldDragon_firing_3" XPos="754" YPos="0" Width="377" Height="434"/>
+    <Image Name="goldDragon_flying_1" XPos="1131" YPos="0" Width="377" Height="434"/>
+    <Image Name="goldDragon_flying_2" XPos="1508" YPos="0" Width="377" Height="434"/>
+    <Image Name="goldDragon_sitted_1" XPos="0" YPos="434" Width="377" Height="434"/>
+    <Image Name="goldDragon_sitted_2" XPos="377" YPos="434" Width="377" Height="434"/>
+    <Image Name="goldDragon_sleeping_1" XPos="754" YPos="434" Width="377" Height="434"/>
+    <Image Name="goldDragon_sleeping_2" XPos="1131" YPos="434" Width="377" Height="434"/>
+</Imageset>

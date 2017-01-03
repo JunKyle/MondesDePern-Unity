@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 6a34f68ddec4b0c4482085d6d4970db9
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - spriteParent: {instanceID: 0}
+  - meteoriteSprite: {instanceID: 0}
+  - hittingSound: {fileID: 8300000, guid: ce9e3a8e64d6d43498f7d0bcf637e702, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:a92e74f63c006350afb801a90cf55818$ -->
+<Imageset Name="blocks" Imagefile="blocks.png" NativeHorzRes="512" NativeVertRes="1024" AutoScaled="false">
+    <Image Name="cave" XPos="0" YPos="0" Width="384" Height="448"/>
+    <Image Name="decoration_books" XPos="192" YPos="896" Width="64" Height="64"/>
+    <Image Name="decoration_shelf" XPos="256" YPos="896" Width="64" Height="64"/>
+    <Image Name="decoration_torch" XPos="384" YPos="896" Width="64" Height="64"/>
+    <Image Name="decoration_vials" XPos="448" YPos="896" Width="64" Height="64"/>
+    <Image Name="furniture_bed" XPos="192" YPos="768" Width="128" Height="64"/>
+    <Image Name="furniture_chair" XPos="128" YPos="768" Width="64" Height="128"/>
+    <Image Name="furniture_craftingtable" XPos="384" YPos="512" Width="128" Height="128"/>
+    <Image Name="furniture_door_closed" XPos="64" YPos="768" Width="64" Height="128"/>
+    <Image Name="furniture_door_open" XPos="0" YPos="768" Width="64" Height="128"/>
+    <Image Name="furniture_table" XPos="64" YPos="960" Width="64" Height="64"/>
+    <Image Name="outside_fruit_1" XPos="128" YPos="960" Width="64" Height="64"/>
+    <Image Name="outside_fruit_2" XPos="128" YPos="896" Width="64" Height="64"/>
+    <Image Name="outside_fruit_3" XPos="320" YPos="896" Width="64" Height="64"/>
+    <Image Name="outside_fruittree_1" XPos="320" YPos="512" Width="64" Height="256"/>
+    <Image Name="outside_fruittree_2" XPos="256" YPos="512" Width="64" Height="256"/>
+    <Image Name="outside_tree_1" XPos="384" YPos="0" Width="128" Height="512"/>
+    <Image Name="sky_sun" XPos="0" YPos="512" Width="256" Height="256"/>
+    <Image Name="terrain_ground3" XPos="448" YPos="768" Width="64" Height="64"/>
+    <Image Name="terrain_ground_grass3" XPos="0" YPos="896" Width="64" Height="64"/>
+    <Image Name="terrain_stone3" XPos="64" YPos="896" Width="64" Height="64"/>
+    <Image Name="terrain_wood2" XPos="384" YPos="768" Width="64" Height="64"/>
+    <Image Name="treasure_chest" XPos="320" YPos="768" Width="64" Height="64"/>
+    <Image Name="treasure_mirror" XPos="0" YPos="960" Width="64" Height="64"/>
+</Imageset>

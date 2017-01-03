@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="10" height="10" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="blocks" tilewidth="64" tileheight="64">
+  <image source="D:/Riyuu/Etudes/Uqac/8INF955-Jeux vidéo/Projet/les-mondes-de-pern/Unity/Assets/SpriteAtlases/blocks.png" width="256" height="1024"/>
+  <tile id="26">
+   <properties>
+    <property name="prototype" value="dirt"/>
+   </properties>
+  </tile>
+  <tile id="27">
+   <properties>
+    <property name="prototype" value="grass"/>
+   </properties>
+  </tile>
+  <tile id="52">
+   <properties>
+    <property name="prototype" value="tree"/>
+   </properties>
+  </tile>
+  <tile id="56">
+   <properties>
+    <property name="prototype" value="stone"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Calque de Tile 1" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYGBgkARiKQbCQBaI5YhQpwjESkSoUwViNSLUaQKxFhHqdIFYjwh1hkBsRECNJRCbArEZATUgLA3FMjgwujpcGKQGANs+BYU=
+  </data>
+ </layer>
+</map>

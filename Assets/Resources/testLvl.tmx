@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="16" height="16" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="blocks" tilewidth="64" tileheight="64">
+  <image source="../SpriteAtlases/blocks.png" width="256" height="256"/>
+  <tile id="7">
+   <properties>
+    <property name="orthelloframeindex" value="10"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="orthelloframeindex" value="11"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="orthelloframeindex" value="12"/>
+   </properties>
+  </tile>
+  <tile id="10">
+   <properties>
+    <property name="orthelloframeindex" value="13"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="block" width="16" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAfcFOgd1T/0NLPjQOToo9Y+7mgmBizceklVz8pAKSfE4rJ1c8BxZTq5yQTAwBQzgHg
+  </data>
+ </layer>
+</map>

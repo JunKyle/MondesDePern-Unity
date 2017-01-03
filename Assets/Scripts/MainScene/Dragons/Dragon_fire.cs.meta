@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: a2aaace90c2c4b04faa00554b6cb37a7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - spriteParent: {instanceID: 0}
+  - dragonSprite: {instanceID: 0}
+  - firingSound: {fileID: 8300000, guid: 140d1903d67fa53458a392ba43473f8a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

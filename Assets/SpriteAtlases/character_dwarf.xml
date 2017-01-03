@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:b9064d92319c5e2b0c279c73559ff2b9$ -->
+<Imageset Name="character_dwarf" Imagefile="character_dwarf.png" NativeHorzRes="1024" NativeVertRes="2048" AutoScaled="false">
+    <Image Name="Dwarf_feeding" XPos="0" YPos="0" Width="320" Height="275"/>
+    <Image Name="Dwarf_hitting_1" XPos="320" YPos="0" Width="320" Height="275"/>
+    <Image Name="Dwarf_hitting_2" XPos="640" YPos="0" Width="320" Height="275"/>
+    <Image Name="Dwarf_jumping_2" XPos="0" YPos="275" Width="320" Height="275"/>
+    <Image Name="Dwarf_sleeping_1" XPos="320" YPos="275" Width="320" Height="275"/>
+    <Image Name="Dwarf_sleeping_2" XPos="640" YPos="275" Width="320" Height="275"/>
+    <Image Name="Dwarf_standing_1" XPos="0" YPos="550" Width="320" Height="275"/>
+    <Image Name="Dwarf_standing_2" XPos="320" YPos="550" Width="320" Height="275"/>
+    <Image Name="Dwarf_walking_1" XPos="640" YPos="550" Width="320" Height="275"/>
+    <Image Name="Dwarf_walking_2" XPos="0" YPos="825" Width="320" Height="275"/>
+</Imageset>

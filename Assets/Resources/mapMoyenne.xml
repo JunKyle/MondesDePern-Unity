@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="40" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="blocks" tilewidth="64" tileheight="64">
+  <image source="../SpriteAtlases/blocks.png" width="512" height="1024"/>
+  <tile id="48">
+   <properties>
+    <property name="prototype" value="cave"/>
+   </properties>
+  </tile>
+  <tile id="62">
+   <properties>
+    <property name="prototype" value="tree"/>
+   </properties>
+  </tile>
+  <tile id="78">
+   <properties>
+    <property name="prototype" value="craftingTable"/>
+   </properties>
+  </tile>
+  <tile id="88">
+   <properties>
+    <property name="prototype" value="sun"/>
+   </properties>
+  </tile>
+  <tile id="92">
+   <properties>
+    <property name="prototype" value="tree_useless"/>
+   </properties>
+  </tile>
+  <tile id="93">
+   <properties>
+    <property name="prototype" value="tree_fruit"/>
+   </properties>
+  </tile>
+  <tile id="99">
+   <properties>
+    <property name="prototype" value="bed"/>
+   </properties>
+  </tile>
+  <tile id="101">
+   <properties>
+    <property name="prototype" value="chest"/>
+   </properties>
+  </tile>
+  <tile id="102">
+   <properties>
+    <property name="prototype" value="wood"/>
+   </properties>
+  </tile>
+  <tile id="103">
+   <properties>
+    <property name="prototype" value="dirt"/>
+   </properties>
+  </tile>
+  <tile id="104">
+   <properties>
+    <property name="prototype" value="door_open"/>
+   </properties>
+  </tile>
+  <tile id="105">
+   <properties>
+    <property name="prototype" value="door_close"/>
+   </properties>
+  </tile>
+  <tile id="106">
+   <properties>
+    <property name="prototype" value="chair"/>
+   </properties>
+  </tile>
+  <tile id="112">
+   <properties>
+    <property name="prototype" value="grass"/>
+   </properties>
+  </tile>
+  <tile id="113">
+   <properties>
+    <property name="prototype" value="stone"/>
+   </properties>
+  </tile>
+  <tile id="114">
+   <properties>
+    <property name="prototype" value="fruit_down"/>
+   </properties>
+  </tile>
+  <tile id="115">
+   <properties>
+    <property name="prototype" value="books"/>
+   </properties>
+  </tile>
+  <tile id="116">
+   <properties>
+    <property name="prototype" value="shelf"/>
+   </properties>
+  </tile>
+  <tile id="117">
+   <properties>
+    <property name="prototype" value="fruit_center"/>
+   </properties>
+  </tile>
+  <tile id="118">
+   <properties>
+    <property name="prototype" value="torch"/>
+   </properties>
+  </tile>
+  <tile id="119">
+   <properties>
+    <property name="prototype" value="vials"/>
+   </properties>
+  </tile>
+  <tile id="120">
+   <properties>
+    <property name="prototype" value="mirror"/>
+   </properties>
+  </tile>
+  <tile id="121">
+   <properties>
+    <property name="prototype" value="table"/>
+   </properties>
+  </tile>
+  <tile id="122">
+   <properties>
+    <property name="prototype" value="fruit_up"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="background" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt1ckKwlAMRuFqVXAEWxWsWnAEaxWc+v6P5tlkmaWhi//At0nWuTdJlFJKKaWUUiquDrpI0UMfg8C5t7eGGGGMCaaYBc69vTVHhhwLLLEKnHt7a40CG2yxQxk49/bWHgccccIZl8C5t7euqHBDjTsegXNvbz3xwhsffNEEzr29pfvQfeg+/PvQ/6v/V++L3pd/vS9t7gfOI1M0
+  </data>
+ </layer>
+ <layer name="terrain" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztVbtOxDAQTAcddNBBBx100PFG4nFIPA6Jx1Ffe/n/gkGyJWu063WIgy3hkUaxszPZcWQnXdfw33AGnoMX4GXhLBJuwFvwDrwvnEXCI/gEPoMvhbNIeAPfwQ/ws3CWhoYGG2vgulFjTcwj+VJ6aNgAN40aa2IeyZfSQ8MWuG3UWBPzSL6UHhp2wF2jxpqYR/Kl9NCwB+678ZVSCzXsiT1T84e9fM3Pr0l3AB668UyphRr2SGCfpJ+R1s8fSHcEHrvxXKmFGvZIYJ+kn5PWz19JdwKeuvFCqYUa9khgn6RfkNbPv9y1B1fg0nElcEnk+5JH8qX0CO/1jtpzSrOGfD2xpnw/vRl9Z+eLrSk3h+az1lRjvtrfX03776/f39DzO3b/5Txbuc9v7rOV+/uRe2+0fL/LM9X/Ycz+07yWf+g6xqydc1nP4DWV+BcPyTdltjH5/HXKbLH9VzO/ARkERBA=
+  </data>
+ </layer>
+ <layer name="special items" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztzkEJACAUBTDTWkAQxPJG+ODBd3BLsNYAACBvpAOFmQ4UdjoAAMBTKx34SE8HuHYAbisCRA==
+  </data>
+ </layer>
+</map>

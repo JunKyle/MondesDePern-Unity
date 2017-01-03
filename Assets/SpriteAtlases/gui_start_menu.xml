@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:3809a4b14d6e6366b08f02087a8451c0$ -->
+<Imageset Name="gui_start_menu" Imagefile="gui_start_menu.png" NativeHorzRes="2048" NativeVertRes="2048" AutoScaled="false">
+    <Image Name="screen_credits" XPos="0" YPos="0" Width="881" Height="689"/>
+    <Image Name="screen_story" XPos="882" YPos="0" Width="881" Height="689"/>
+    <Image Name="screen_title" XPos="0" YPos="690" Width="881" Height="689"/>
+    <Image Name="text_challengeMode_1" XPos="882" YPos="690" Width="340" Height="70"/>
+    <Image Name="text_challengeMode_2" XPos="1223" YPos="690" Width="340" Height="70"/>
+    <Image Name="text_credits_1" XPos="1564" YPos="690" Width="340" Height="70"/>
+    <Image Name="text_credits_2" XPos="0" YPos="1380" Width="340" Height="70"/>
+    <Image Name="text_normalMode_1" XPos="341" YPos="1380" Width="340" Height="70"/>
+    <Image Name="text_normalMode_2" XPos="682" YPos="1380" Width="340" Height="70"/>
+    <Image Name="text_play_1" XPos="1023" YPos="1380" Width="340" Height="70"/>
+    <Image Name="text_play_2" XPos="1364" YPos="1380" Width="340" Height="70"/>
+    <Image Name="text_quit_1" XPos="1705" YPos="1380" Width="340" Height="70"/>
+    <Image Name="text_quit_2" XPos="0" YPos="1451" Width="340" Height="70"/>
+    <Image Name="text_return_1" XPos="341" YPos="1451" Width="340" Height="70"/>
+    <Image Name="text_return_2" XPos="682" YPos="1451" Width="340" Height="70"/>
+</Imageset>
